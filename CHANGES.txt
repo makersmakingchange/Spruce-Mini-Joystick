@@ -1,0 +1,6 @@
+Version 1.0 | 2023-09-27
+ - Spruce Mini Joystick design and documentation, based off the Cedar Mini Joystick, uploaded to GitHub
+
+
+
+
