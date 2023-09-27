@@ -27,7 +27,7 @@ The Spruce Mini Joystick is a mini sized proportional joystick that can be used 
 PHOTO
 
  --->
- <img src="Photos/Spruce_Mini_Joystick.jpg" width="500" alt="A photo of the Spruce Mini Joystick.">
+ <img src="Photos/Spruce-Mini-Joystick.jpg" width="500" alt="A photo of the Spruce Mini Joystick.">
  
 
 <!--- 
