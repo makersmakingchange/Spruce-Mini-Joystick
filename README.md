@@ -20,14 +20,14 @@ Should match the name of the GitHub repository. Choose something descriptive rat
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The Spruce Mini Joystick is a medium sized proportional joystick that can be used for adaptive gaming. It has range of motion of approximately ±25° and requires 525 grams-force to fully deflect. This joystick has a cable with a 3.5 mm TRRS audio plug (i.e., headphone jack). It is compatible with the X1 or X2 analog input ports on the Microsoft Xbox Adaptive controller as well as the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) and the [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/).
+The Spruce Mini Joystick is a mini sized proportional joystick that can be used for adaptive gaming. Based on a generic game controller thumbstick, it has range of motion of ±30° and requires approximately 75 grams-force to fully deflect. This joystick has a two output cables, one with a 3.5 mm TRRS audio plug (i.e., headphone jack) for the joystick, and one with a 3.5 mm mono audio plug for the push switch. It is compatible with the X1 or X2 analog input ports on the Microsoft Xbox Adaptive controller as well as the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) and the [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/).
 
 
 <!--- 
 PHOTO
 
  --->
- <img src="Photos/Assembly_Photos/Oak_Joystick_Complete.jpg" width="500" alt="A photo of the Oak Compact Joystick.">
+ <img src="Photos/Spruce_Mini_Joystick.jpg" width="500" alt="A photo of the Spruce Mini Joystick.">
  
 
 <!--- 
