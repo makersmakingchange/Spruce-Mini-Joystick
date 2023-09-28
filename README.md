@@ -124,7 +124,8 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 ATTRIBUTION
 Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
 --->
-Hardware, toppers, and enclosure design: Josie Versloot, Neil Squire Society
+Hardware and enclosure design: Josie Versloot, Neil Squire Society
+Enclosure design remixed from [AbleGamers Charity](https://www.printables.com/model/508909-snap-assembly-thumbstick-shell/files)
 
 The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
