@@ -124,7 +124,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 ATTRIBUTION
 Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
 --->
-Hardware and enclosure design: Josie Versloot, Neil Squire Society
+Hardware and enclosure design: Makers Making Change - Neil Squire Society
 
 Enclosure design remixed from [AbleGamers Charity](https://www.printables.com/model/508909-snap-assembly-thumbstick-shell/files)
 
