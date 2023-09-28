@@ -126,7 +126,7 @@ Include any information related to the development of the design. This may inclu
 --->
 Hardware and enclosure design: Makers Making Change - Neil Squire Society
 
-Enclosure design remixed from [AbleGamers Charity](https://www.printables.com/model/508909-snap-assembly-thumbstick-shell/files)
+Enclosure design remixed from [AbleGamers Charity](https://www.printables.com/model/508909-snap-assembly-thumbstick-shell/files), orinally released under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
 
 The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
