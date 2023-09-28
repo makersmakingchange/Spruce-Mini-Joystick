@@ -92,7 +92,7 @@ Reference the [Maker Guide](/Documentation/Spruce_Joystick_Maker_Guide.pdf) for 
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Spruce_Mini_Joystick_Design_Rationale](/Documentation/Spruce_Joystick_Design_Rationale.pdf)     |
 | Bill of Materials    | 1.0     | [Spruce_Mini_Joystick_Bill_of_Materials](/Documentation/Spruce_Joystick_BOM.csv)     |
-| Maker Guide          | 1.0     | [Spruce_Mini_Joystick_Assembly_Guide](/Documentation/Spruce_Joystick_Maker_Guide.pdf)     |
+| Maker Guide          | 1.0     | [Spruce_Mini_Joystick_Maker_Guide](/Documentation/Spruce_Joystick_Maker_Guide.pdf)     |
 | User Guide           | 1.0     | [Spruce_Mini_Joystick_User_Guide](/Documentation/Spruce_Joystick_User_Guide.pdf)    |
 
 
