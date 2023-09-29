@@ -6,7 +6,7 @@ A brief summary of the project. What it does, who it is for, how much it costs.
  --->
 The Spruce Mini Joystick is a mini sized proportional joystick that can be used for adaptive gaming or computer access with a suitable adaptor. Based on a generic PS2-style game controller thumbstick, it has range of motion of ±30° and requires approximately 75 grams-force to fully deflect. This joystick has a two output cables, one with a 3.5 mm TRRS audio plug (i.e., headphone jack) for the joystick, and one with a 3.5 mm mono audio plug for the push switch. 
 
-The Spruce Mini Joystick can be used directly as a left or right thumbstick for the Microsoft Xbox Adaptive Controller (XAC) using the X1 or X2 analog input ports. It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse.
+The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports. It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse.
 
 The Spruce Mini Joystick is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
