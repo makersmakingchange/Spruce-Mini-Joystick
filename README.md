@@ -40,7 +40,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain an Spruce Mini Joystick, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Spruce Mini Joystick, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG). The requestor is responsible for the cost of materials and any shipping.
 
 A limited number of these devices may be available at no-cost to people with disabilities that reside within Canada as part of the [Accesible Technology Program Grant](https://ised-isde.canada.ca/site/accessible-technology-program/en). If you think this applies to you, please send an email to info@makersmakingchange.com.
 
@@ -60,7 +60,7 @@ The [Spruce Joystick Bill of Materials](/Documentation/Spruce_Joystick_BOM.csv) 
 
 ### 3. Print the 3D Printable components
 
-Print the components needed for the Spruce Mini Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters. Refer to the [OpenAT Joystick Setup Guide](https://github.com/makersmakingchange/OpenAT-Joysticks/Resources/OpenAT_Joystick_Setup_Guide.pdf) for detailed mounting options.
+Print the components needed for the Spruce Mini Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters. Refer to the [OpenAT Joystick Setup Guide](https://github.com/makersmakingchange/OpenAT-Joysticks/Resources/OpenAT_Joystick_Setup_Guide.pdf) for detailed mounting options. For compatible toppers, see the [Analog Thumbstick Topper Collection by AbleGamers](https://www.printables.com/model/501869-analog-thumbstick-topper-collection).
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
