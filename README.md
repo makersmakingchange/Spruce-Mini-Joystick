@@ -60,7 +60,7 @@ The [Spruce Joystick Bill of Materials](/Documentation/Spruce_Joystick_BOM.csv) 
 
 ### 3. Print the 3D Printable components
 
-Print the components needed for the Spruce Mini Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters. Refer to the [Spruce Joystick User Guide](/Documentation/Spruce_Joystick_User_Guide.pdf) for detailed mounting options. For compatible toppers, see the [Analog Thumbstick Topper Collection by AbleGamers](https://www.printables.com/model/501869-analog-thumbstick-topper-collection).
+Print the components needed for the Spruce Mini Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters. Refer to the [OpenAT Joystick Setup Guide](https://github.com/makersmakingchange/OpenAT-Joysticks/Resources/OpenAT_Joystick_Setup_Guide.pdf) for detailed mounting options. For compatible toppers, see the [Analog Thumbstick Topper Collection by AbleGamers](https://www.printables.com/model/501869-analog-thumbstick-topper-collection).
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
