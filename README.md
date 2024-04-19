@@ -6,7 +6,9 @@ A brief summary of the project. What it does, who it is for, how much it costs.
  --->
 The Spruce Mini Joystick is a mini sized proportional joystick that can be used for adaptive gaming or computer access with a suitable adaptor. Based on a generic PS2-style game controller thumbstick, it has range of motion of ±30° and requires approximately 75 grams-force to fully deflect. This joystick has a two output cables, one with a 3.5 mm TRRS audio plug (i.e., headphone jack) for the joystick, and one with a 3.5 mm mono audio plug for the push switch. 
 
-The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports. It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse. The Spruce Joystick has a 
+The Spruce Mini Joystick is directly compatible with the Xbox Adaptive Controller and the Playstation Access Controller. The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports. 
+
+The Spruce Mini Joystick can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse for compatiblity with computers, tablets, and smartphones.
 
 The Spruce Mini Joystick is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
@@ -39,8 +41,6 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 ### 2. Request a build of this device
 
 If you would like to obtain a Spruce Mini Joystick, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG). The requestor is responsible for the cost of materials and any shipping.
-
-A limited number of these devices may be available at no-cost to people with disabilities that reside within Canada as part of the [Accesible Technology Program Grant](https://ised-isde.canada.ca/site/accessible-technology-program/en). If you think this applies to you, please send an email to info@makersmakingchange.com.
 
 ### 3. How to build this device for someone else
 If you have the skills and equipment to build this device, and would like to donate your time to create the joystick for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
