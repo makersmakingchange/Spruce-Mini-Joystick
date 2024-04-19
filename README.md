@@ -6,7 +6,7 @@ A brief summary of the project. What it does, who it is for, how much it costs.
  --->
 The Spruce Mini Joystick is a mini sized proportional joystick that can be used for adaptive gaming or computer access with a suitable adaptor. Based on a generic PS2-style game controller thumbstick, it has range of motion of ±30° and requires approximately 75 grams-force to fully deflect. This joystick has a two output cables, one with a 3.5 mm TRRS audio plug (i.e., headphone jack) for the joystick, and one with a 3.5 mm mono audio plug for the push switch. 
 
-The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports. It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse.
+The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports. It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse. The Spruce Joystick has a 
 
 The Spruce Mini Joystick is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
@@ -18,16 +18,14 @@ DEVICE PHOTO
  <img src="Photos/Spruce_Mini_Joystick.png" width="500" alt="The Spruce Mini Joystick in a brown and green enclosure.">
  
 
-## Makers Making Change Device Library
+## Makers Making Change Assistive Device Library
  
  - [Makers Making Change Device Page](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG)
 
 <!--- 
 Other available joysticks can be found through the [Joystick Selection Guide](https://makersmakingchange.com/resource/analog-joystick-selection-guide/)
-## More info at
- 
- - [Makers Making Change Project Page](TBD)
  --->
+
 ## OpenAT Joysticks
 This design is part of the [OpenAT Joystick project](https://github.com/makersmakingchange/OpenAT-Joysticks), a collection of open source designs for digital access and adapted gaming.  
 
@@ -92,6 +90,14 @@ This section lists links to the various files used to build the device.
 --->
  - [3D Printing Files](/Build_Files/3D_Print_files)
 
+## Using a Spruce Mini Joystick
+
+### Changing Toppers
+
+https://www.youtube.com/watch?v=3ufB1Ncezi8
+
+
+
 ## License
 Copyright (c) 2023 Neil Squire / Makers Making Change.
 
@@ -110,13 +116,18 @@ Source Location: https://github.com/makersmakingchange/Spruce-Mini-Joystick
 ATTRIBUTION
 Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
 --->
-Hardware and enclosure design: Josie Versloot, Neil Squire Society
 
 Enclosure design based on [snap assembly thumbstick shell](https://www.printables.com/model/508909-snap-assembly-thumbstick-shell/files) by [AbleGamers Charity](https://ablegamers.org/).
 
+[Spruce Joystick Toppers](https://www.printables.com/model/501869-analog-thumbstick-topper-collection) designed by AbleGamers Charity is used under a CC BY-NC 4.0 license. 
+
 The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
+### Contributors
+ - Josie Versloot, Neil Squire Society. Hardware and enclosure design.
+
 ---
+
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -126,7 +137,7 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
  - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
+ - X (formerly Twitter): [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
  - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
  - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
