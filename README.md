@@ -64,7 +64,7 @@ Print the components needed for the Spruce Mini Joystick. Make sure to ask the u
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 4. Assemble the Oak Compact Joystick
+### 4. Assemble the Spruce Mini Joystick
 
 Reference the [Maker Guide](/Documentation/Spruce_Joystick_Maker_Guide.pdf) for the tools and steps required to build each portion.
 
