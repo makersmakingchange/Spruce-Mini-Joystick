@@ -6,7 +6,7 @@ A brief summary of the project. What it does, who it is for, how much it costs.
  --->
 The Spruce Mini Joystick is a mini sized proportional joystick that can be used for adaptive gaming or computer access with a suitable adaptor. Based on a generic PS2-style game controller thumbstick, it has range of motion of ±30° and requires approximately 75 grams-force to fully deflect. This joystick has a two output cables, one with a 3.5 mm TRRS audio plug (i.e., headphone jack) for the joystick, and one with a 3.5 mm mono audio plug for the push switch. 
 
-The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports. It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse.
+The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports, or directly with the [PlayStation Access Controller](https://www.playstation.com/en-ca/accessories/access-controller/). It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse.
 
 The Spruce Mini Joystick is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
@@ -15,8 +15,10 @@ The current version of the Spruce Mini Joystick (v1.0) has been built and intern
 <!--- 
 DEVICE PHOTO
  --->
- <img src="Photos/Spruce_Mini_Joystick.png" width="500" alt="The Spruce Mini Joystick in a brown and green enclosure.">
+ <img src="Photos/Spruce_Mini_Joystick.jpg" width="500" alt="The Spruce Mini Joystick in a brown and green enclosure.">
  
+ 
+**Note:** If experiencing drift when using with the Xbox Adaptive Controller (XAC), unplug and power off the XAC, then power on again and move the joystick in circles.
 
 ## Makers Making Change Device Library
  
@@ -75,7 +77,7 @@ Reference the [Maker Guide](/Documentation/Spruce_Joystick_Maker_Guide.pdf) for 
 | Design Rationale     | 1.0     | [Spruce_Mini_Joystick_Design_Rationale](/Documentation/Spruce_Joystick_Design_Rationale.pdf)     |
 | Bill of Materials    | 1.0     | [Spruce_Mini_Joystick_Bill_of_Materials](/Documentation/Spruce_Joystick_BOM.csv)     |
 | Maker Guide          | 1.0     | [Spruce_Mini_Joystick_Maker_Guide](/Documentation/Spruce_Joystick_Maker_Guide.pdf)     |
-| User Guide           | 1.0     | [Spruce_Mini_Joystick_User_Guide](/Documentation/Spruce_Joystick_User_Guide.pdf)    |
+| User Guide           | 1.0.1     | [Spruce_Mini_Joystick_User_Guide](/Documentation/Spruce_Joystick_User_Guide.pdf)    |
 
 
 ### Design Files

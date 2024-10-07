@@ -1,6 +1,11 @@
-Version 1.0 | 2023-09-27
+October 7, 2024
+ - User Guide updated to Version 1.0.1:
+	- Added drift troubleshooting and instructions on the order to plug in the switch and joystick cables.
+	- Updated compatibility by adding PlayStation Access Controller.
+
+
+------------------------------------------------------------------------------------------------------
+September 27, 2023
+Version 1.0
  - Spruce Mini Joystick design and documentation, based off the Cedar Mini Joystick, uploaded to GitHub
-
-
-
 
