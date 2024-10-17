@@ -15,7 +15,7 @@ The current version of the Spruce Mini Joystick (v1.0) has been built and intern
 <!--- 
 DEVICE PHOTO
  --->
- <img src="Photos/Spruce_Mini_Joystick.jpg" width="500" alt="The Spruce Mini Joystick in a brown and green enclosure.">
+ <img src="Photos/Spruce_Mini_Joystick.png" width="500" alt="The Spruce Mini Joystick in a brown and green enclosure.">
  
  
 **Note:** If experiencing drift when using with the Xbox Adaptive Controller (XAC), unplug and power off the XAC, then power on again and move the joystick in circles.
