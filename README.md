@@ -1,9 +1,6 @@
  # Spruce Mini Joystick
 
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
+<!---  SUMMARY A brief summary of the project. What it does, who it is for, how much it costs.  --->
 The Spruce Mini Joystick is a mini sized proportional joystick that can be used for adaptive gaming or computer access with a suitable adaptor. Based on a generic PS2-style game controller thumbstick, it has range of motion of ±30° and requires approximately 75 grams-force to fully deflect. This joystick has a two output cables, one with a 3.5 mm TRRS audio plug (i.e., headphone jack) for the joystick, and one with a 3.5 mm mono audio plug for the push switch. 
 
 The Spruce Mini Joystick can be used directly as a left or right thumbstick for the [Microsoft Xbox Adaptive Controller (XAC)](https://www.xbox.com/en-CA/accessories/controllers/xbox-adaptive-controller) using the X1 or X2 analog input ports, or directly with the [PlayStation Access Controller](https://www.playstation.com/en-ca/accessories/access-controller/). It can also be used with the [Forest Joystick Mouse Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) as a USB Gamepad or USB Mouse.
@@ -12,24 +9,19 @@ The Spruce Mini Joystick is open assistive technology (OpenAT). Under the terms 
 
 The current version of the Spruce Mini Joystick (v1.0) has been built and internally tested. It is based on a similar design that has been built and user tested.  
 
-<!--- 
-DEVICE PHOTO
- --->
+<!---  DEVICE PHOTO  --->
  <img src="Photos/Spruce_Mini_Joystick.png" width="500" alt="The Spruce Mini Joystick in a brown and green enclosure.">
  
  
 **Note:** If experiencing drift when using with the Xbox Adaptive Controller (XAC), unplug and power off the XAC, then power on again and move the joystick in circles.
 
 ## Makers Making Change Device Library
- 
- - [Makers Making Change Device Page](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG)
+  - [Makers Making Change Device Page](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG)
 
 <!--- 
 Other available joysticks can be found through the [Joystick Selection Guide](https://makersmakingchange.com/resource/analog-joystick-selection-guide/)
-## More info at
- 
- - [Makers Making Change Project Page](TBD)
- --->
+   --->
+   
 ## OpenAT Joysticks
 This design is part of the [OpenAT Joystick project](https://github.com/makersmakingchange/OpenAT-Joysticks), a collection of open source designs for digital access and adapted gaming.  
 
@@ -81,17 +73,11 @@ Reference the [Maker Guide](/Documentation/Spruce_Joystick_Maker_Guide.pdf) for 
 
 
 ### Design Files
-<!---
-DESIGN FILES
-If possible, include a copy of original design files to facilitate easy editing and customization.
---->
+<!--- DESIGN FILES If possible, include a copy of original design files to facilitate easy editing and customization. --->
  - [CAD Files](/Design_Files)
 
 ### Build Files
-<!---
-BUILD FILES
-This section lists links to the various files used to build the device.
---->
+<!--- BUILD FILES This section lists links to the various files used to build the device. --->
  - [3D Printing Files](/Build_Files/3D_Print_files)
 
 ## License
@@ -108,10 +94,7 @@ Please see the CERN-OHL-W v2 for applicable conditions.
 Source Location: https://github.com/makersmakingchange/Spruce-Mini-Joystick
 
 ## Attribution
-<!---
-ATTRIBUTION
-Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
---->
+<!--- ATTRIBUTION Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design --->
 Hardware and enclosure design: Josie Versloot, Neil Squire Society
 
 Enclosure design based on [snap assembly thumbstick shell](https://www.printables.com/model/508909-snap-assembly-thumbstick-shell/files) by [AbleGamers Charity](https://ablegamers.org/).
@@ -119,6 +102,8 @@ Enclosure design based on [snap assembly thumbstick shell](https://www.printable
 The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
 ---
+
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -137,3 +122,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
