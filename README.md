@@ -54,7 +54,7 @@ The [Spruce Joystick Bill of Materials](/Documentation/Spruce_Joystick_BOM.csv) 
 
 ### 3. Print the 3D Printable components
 
-Print the components needed for the Spruce Mini Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters. Refer to the [OpenAT Joystick Setup Guide](https://github.com/makersmakingchange/OpenAT-Joysticks/Resources/OpenAT_Joystick_Setup_Guide.pdf) for detailed mounting options. For compatible toppers, see the [Analog Thumbstick Topper Collection by AbleGamers](https://www.printables.com/model/501869-analog-thumbstick-topper-collection).
+Print the components needed for the Spruce Mini Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters. Refer to the [OpenAT Joystick Setup Guide](https://github.com/makersmakingchange/OpenAT-Joysticks/Resources/OpenAT_Joystick_Setup_Guide.pdf) for detailed mounting options. 
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
@@ -98,6 +98,8 @@ Source Location: https://github.com/makersmakingchange/Spruce-Mini-Joystick
 Hardware and enclosure design: Josie Versloot, Neil Squire Society
 
 Enclosure design based on [snap assembly thumbstick shell](https://www.printables.com/model/508909-snap-assembly-thumbstick-shell/files) by [AbleGamers Charity](https://ablegamers.org/).
+
+A range of toppers are availablef or this joystick and utilize the mofels found in the [set of toppers created by AbleGamers Charity](https://www.printables.com/model/501869-analog-thumbstick-topper-collection).
 
 The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
